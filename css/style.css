@@ -1,0 +1,15 @@
+@font-face {
+    font-family: "smartFontUI";
+    src: url("../03スマートフォントUI.otf");
+}
+body{
+    font-family: smartFontUI;
+    background-color: black;
+    color:rgb(147, 176, 214);
+    font-size: 25px;
+}
+
+
+a{
+    color:aquamarine
+}
